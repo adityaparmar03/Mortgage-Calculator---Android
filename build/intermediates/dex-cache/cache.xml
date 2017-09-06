@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_3078d6371c0e7b1514c849127f4fc0d0219caad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_d480fbb1811b0aa7c82921ec4f6954d485a6b78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_6528f77ed77698c0653134b0352291d114cae322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_6a6d4667f41e8be540d314bbbd8920fe2146e9e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_4fba784bfeb2827dcb35e420167c94775f88d0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_d15776b9dfbfc0bb66575252386a14ed7ff31f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_d77b07c586adde917c39bfb2c40e6ecf10f06d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_e8fed512a4e9e290ac0b952ede7563a66f4cc240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_b8f10d882f0f5dde9de2e11a0ec517b93d5816fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_b029757f163f479bda5e1c4defb328aec6c3a390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_b5b1bc874dca5668eec94c26b4b95331be3b0952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_cb84d887d80b00971f8103abb36339c5eda44e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_fcff759dd40bd78483e6c1256f51ce05898af3cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/adityaparmar/AndroidStudioProjects/MortgageCalculator/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_d4bf4cc6872c26526b01dc83b280e309d6b5301f.jar" />
+    </item>
+
+</items>
